@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@garrettd714's dev notes</title>
+    <description>dev notes and ramblings from a nobody.
+</description>
+    <link>https://garrettd714.github.io/</link>
+    <atom:link href="https://garrettd714.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 06 May 2015 17:01:55 -0700</pubDate>
+    <lastBuildDate>Wed, 06 May 2015 17:01:55 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Rabbit Hole: Minor API revisioning</title>
+        <description>&lt;script src=&quot;https://gist.github.com/c46be1eafe8d2514a550.js&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;Stack: Rails 3, Ruby 1.9&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 May 2015 07:45:54 -0700</pubDate>
+        <link>https://garrettd714.github.io/rails/2015/05/03/rabbit-hole-minor-api-revisioning.html</link>
+        <guid isPermaLink="true">https://garrettd714.github.io/rails/2015/05/03/rabbit-hole-minor-api-revisioning.html</guid>
+        
+        
+        <category>rails</category>
+        
+      </item>
+    
+  </channel>
+</rss>
